@@ -127,3 +127,10 @@ body {
   background-size: cover;
   padding: 100px 0 120px;
 }
+
+.form {
+}
+
+.form__input {
+  max-width: 385px;
+}
